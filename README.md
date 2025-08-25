@@ -1,4 +1,4 @@
-# Web Development Mini Projects
+# Full Stack Development
 
 This repository contains three simple JavaScript DOM manipulation projects:
 
